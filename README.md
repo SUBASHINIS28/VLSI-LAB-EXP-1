@@ -43,9 +43,12 @@ Logic Gates:
       endmodule
  ```
 OUTPUT:
-     ![WhatsApp Image 2024-04-21 at 13 13 36_d14c1395](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-1/assets/153823077/6e0da202-e7ed-4e5e-aee2-5b8b6ddf6143)
 
-   ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
+![WhatsApp Image 2024-04-21 at 13 13 36_d14c1395](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-1/assets/153823077/6e0da202-e7ed-4e5e-aee2-5b8b6ddf6143)
+
+LOGIC DIAGRAM:
+
+ ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
 
 
 Half Adder:
@@ -60,6 +63,8 @@ Half Adder:
 OUTPUT:
 
   ![WhatsApp Image 2024-04-21 at 13 22 26_803f5d1e](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-1/assets/153823077/392fb0b2-595c-4099-a1cd-c6a446093685)
+  
+LOGIC DIAGRAM:
 
   ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/0e1ecb96-0c25-4556-832b-aeeedfdfe7b9)
 
@@ -80,6 +85,8 @@ Full adder:
 OUTPUT:
 
    ![WhatsApp Image 2024-04-21 at 20 23 36_03484310](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-1/assets/153823077/4d96b6ff-2572-4cf2-adef-001b6cf38a49)
+   
+LOGIC DIAGRAM:
 
    ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/9bb3964c-438f-469d-a3de-c1cca6f323fb)
 
@@ -98,6 +105,8 @@ Half Subtractor:
 OUTPUT:
 
  ![WhatsApp Image 2024-04-21 at 20 25 06_4d67aa4c](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-1/assets/153823077/e20c90aa-d755-41a9-9995-1812518cf360)
+ 
+LOGIC DIAGRAM:
 
  ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/731470b7-eb4e-49f8-8bb7-2994052a7184)
 
@@ -122,6 +131,7 @@ OUTPUT:
 
   ![WhatsApp Image 2024-04-21 at 20 25 44_0c0a2a7c](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-1/assets/153823077/91ce7a66-e2ab-4bff-b316-15cc421f0ee2)
 
+LOGIC DIAGRAM:
 
   ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/d66f874b-c1f2-44b3-a035-7149b56430c1)
 
@@ -176,6 +186,7 @@ OUTPUT:
 
    ![WhatsApp Image 2024-04-21 at 20 28 06_3b732605](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-1/assets/153823077/26baa473-ecc7-402e-85d0-6bfae894f264)
 
+LOGIC DIAGRAM:
 
    ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/7385a408-40a5-4203-8050-b72818622d79)
    
