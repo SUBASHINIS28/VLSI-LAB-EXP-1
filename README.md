@@ -67,8 +67,8 @@ Half Adder:
 
   ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/0e1ecb96-0c25-4556-832b-aeeedfdfe7b9)
 
-Verilog Code:
 
+Verilog Code:
 ```
      module halfadder( a,b,sum,carry);
      input a,b;
@@ -112,7 +112,6 @@ Half Subtractor:
 
 
 Verilog code:
-
 ```
        module hs(a,b,difference,borrow);
        input a,b;
@@ -135,7 +134,6 @@ Full Subtractor:
 
 
 Verilog Code:
-
 ```
  module fs(a,b,c,diff,borrow);
     input a,b,c;
@@ -160,8 +158,7 @@ LOGIC DIAGRAM:
 
    ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/7385a408-40a5-4203-8050-b72818622d79)
    
- Verilog Code:
- 
+ Verilog Code: 
 ```
   module fa(a,b,cin,sum,carry);
        input a,b,cin;
