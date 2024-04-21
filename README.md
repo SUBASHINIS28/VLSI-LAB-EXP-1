@@ -37,6 +37,9 @@ STEP:11 On the board, by giving required input, the LEDs starts to glow light, i
 
     REGISTERED NUMBER: 212222060256
 ```   
+LOGIC DIAGRAM:
+
+ ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
 
 Logic Gates:
 ```
@@ -56,9 +59,6 @@ OUTPUT:
 
 ![WhatsApp Image 2024-04-21 at 13 13 36_d14c1395](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-1/assets/153823077/6e0da202-e7ed-4e5e-aee2-5b8b6ddf6143)
 
-LOGIC DIAGRAM:
-
- ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
 
 
 Half Adder:
