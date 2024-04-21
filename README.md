@@ -209,6 +209,7 @@ LOGIC DIAGRAM:
 OUTPUT:
 
    ![WhatsApp Image 2024-04-21 at 20 28 06_3b732605](https://github.com/SUBASHINIS28/VLSI-LAB-EXP-1/assets/153823077/26baa473-ecc7-402e-85d0-6bfae894f264)
+   
 
 RESULT:
 
